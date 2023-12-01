@@ -31,3 +31,29 @@ h1 {
 .RT {
     text-align: center;
 }
+
+.NM {
+    padding: 10px;
+}
+
+.card-menu {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+.alinear{
+display: flex;
+justify-content: space-between;
+
+}
+
+.alinearr {
+display: flex;
+justify-content: space-between;
+}
+
+.contacto {
+    padding: 25px;
+}
