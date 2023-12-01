@@ -1,3 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 105px;
+    background-color: #952323;
+    align-items: center;
+    padding: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #F2E8C6 ;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
 body {
-    background-color: #F1EAFF;
+    margin: 0%;
+    background-color: #F2E8C6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #A73121;
+
+}
+
+h1 {
+    color: #A73121;
+}
+
+.RT {
+    text-align: center;
 }
